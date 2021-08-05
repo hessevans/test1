@@ -2,7 +2,7 @@ name: Deploy GitHub pages with traffic stats
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 6 * * *"
 
 jobs:
   build-n-publish:
