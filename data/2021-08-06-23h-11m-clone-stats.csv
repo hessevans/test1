@@ -1,7 +1,4 @@
-databoxtestrepo,2021-07-22,1,1
-final-template,2021-08-02,3,3
-final-template,2021-08-03,1,1
-final-template,2021-08-04,1,1
+repository_name,date,clones,unique_visitors/cloners
 test1,2021-07-30,3,3
 test1,2021-07-31,4,4
 test1,2021-08-01,5,5
